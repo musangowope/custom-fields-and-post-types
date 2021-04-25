@@ -4,7 +4,8 @@ Example of displaying a custom post type with custom taxomonies and custom field
 ## Getting Started
 1. Create empty wordpress instance on local machine
 2. Install this plugin https://wordpress.org/plugins/all-in-one-wp-migration/ on your local instance
-3. Download `demo-wp-instance.wpress` from this repo and import into local instance using the `all-in-one-wp-migration` plugin
+3. Download `demo-wp-instance.wpress` from https://drive.google.com/file/d/1BZCt8L-VghJM9Ec1P61kywErYhZqulUL/view?usp=sharing
+   and import into local instance using the `all-in-one-wp-migration` plugin
 
 ## Explainations
 - The custom post type **Pokemon** was made with the plugin CPT UI Plugin
